@@ -1,0 +1,13 @@
+# Python File Organizer - Dependencies
+# ====================================
+# This application is built entirely using Python's built-in standard library.
+# No external third-party packages or pip installations are required.
+#
+# Standard Library Modules Utilized:
+# - os       (Operating system interactions, directory traversal, path resolution)
+# - shutil   (High-level file operations and safe file moving)
+# - sys      (Command-line arguments, system parameters, and clean process exits)
+# - tempfile (Safe temporary sandbox generation for unit/integration testing)
+#
+# Python Compatibility:
+# Python 3.7 or higher recommended.
